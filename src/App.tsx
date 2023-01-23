@@ -3,6 +3,7 @@ import Dashboard from "./dashboard/Dashboard";
 import Alerts from "./alerts/Alerts";
 import Statistics from "./statistics/Statistics";
 import Tickets from "./tickets/Tickets";
+
 function App() {
   return (
     <Routes>
